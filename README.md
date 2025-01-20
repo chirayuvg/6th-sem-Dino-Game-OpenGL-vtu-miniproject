@@ -1,6 +1,6 @@
-# BTech 6th Semester Graphics Project
+# OpenGL Dino Game 
 
-This is my BTech 6th Semester Graphics Project inspired by the _Dino game_ on Google Chrome,
+This is my Computer Graphics Project inspired by the _Dino game_ on Google Chrome,
 written in **C** on **OpenGL API** using `freeglut` library.
 
 ## Commands
@@ -38,8 +38,3 @@ Run the game using:
 ./a.out
 ```
 
-## Screenshots
-
-![Screenshot 1](./screenshots/screenshot-1.png?raw=true "Screenshot 1")
-
-![Screenshot 2](./screenshots/screenshot-2.png?raw=true "Screenshot 2")
